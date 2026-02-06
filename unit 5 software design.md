@@ -1,7 +1,7 @@
 -> fundamental design concepts
-->modales & modularization(coupling&whesion)
-->design notalim
-->design techiques
+->modales & modularization(coupling&whesion)%
+->design notalim%
+->design techiques%
 ->design guidelines
 
 
@@ -17,3 +17,19 @@
 |            | requiment  | archi    | debuing        |
 |            | defimition | detailes | testing        |
 ## External design
+
+## SRR -> sofrtware requiments review
+## PDR-> pieliminary design reviwe
+## CDR-> critical fegion reviwe
+
+## fundamental design uncepts
+. Abstraction %
+.Structure
+.Information hiding
+.Modulacity
+.Conceuency
+.Verification
+.Design aestthetic
+
+
+## sturcture 
